@@ -1,5 +1,4 @@
-# Tribute Page 
- _A Pen created at CodePen.io. Original URL: [https://codepen.io/rsumardi/pen/BaNWzrp](https://codepen.io/rsumardi/pen/BaNWzrp).
+
 <h1 id = "title"> Steve Jobs</h1> 
   <p> THE FOUNDER OF APPLE</h1>  
 <figure id ="img-div"> 
